@@ -1,1 +1,1 @@
-console.log('TEST fetch')
+console.log('TEST fetch 2')
