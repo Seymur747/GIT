@@ -1,1 +1,1 @@
-console.log('Its feature')
+console.log('Its test of rebase')
